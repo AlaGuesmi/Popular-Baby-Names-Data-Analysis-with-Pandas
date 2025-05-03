@@ -1,4 +1,4 @@
-👶 #Popular Baby Names – Advanced Data Analysis with Pandas
+ # 👶Popular_Baby_Names–Advanced_Data_Analysis_with_Pandas
 
 This project focuses on advanced data manipulation and analysis using the **Popular Baby Names dataset**. The analysis demonstrates practical data wrangling techniques suitable for real-world business and public-sector datasets, making it ideal for showcasing data analyst skills in a recruitment context.
 
